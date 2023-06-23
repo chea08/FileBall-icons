@@ -1,0 +1,26 @@
+# NAME: Emby
+# AUTHOR: justdoiting
+# REPO: https://github.com/justdoiting/emby-rules
+# UPDATED: 2023-05-28 18:23:14
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 3
+# DOMAIN-SUFFIX: 34
+# TOTAL: 38
+DOMAIN-KEYWORD, emby
+DOMAIN,emby.enjoyit.eu.org
+DOMAIN-KEYWORD, jmsooo.com
+DOMAIN-KEYWORD,odysseyplus
+DOMAIN-SUFFIX,cristiamo.xyz
+DOMAIN-SUFFIX, direct.nebula-emby
+DOMAIN-SUFFIX,jellyfin.xeton.dev
+DOMAIN-SUFFIX,line.emby.men
+DOMAIN-SUFFIX,mickeycloud.com
+DOMAIN-SUFFIX,movie.xeton.dev
+DOMAIN-SUFFIX,servers.xeton.dev
+DOMAIN-SUFFIX, ws1.amazing910.top
+DOMAIN-SUFFIX,789.123456.al 
+DOMAIN-SUFFIX,bili.bili.rip
+DOMAIN-SUFFIX,usa.bili.rip
+DOMAIN-SUFFIX,ju.dog 
+DOMAIN-SUFFIX,singularity.deja-vu.beauty
+DOMAIN-SUFFIX,misty.ltd
