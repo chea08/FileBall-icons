@@ -22,6 +22,10 @@
             "name":"BlueSea",
             "url":"https://raw.githubusercontent.com/chea08/FileBall-icons/main/icons/BlueSea.png"
         },
+         {
+            "name":"黑格",
+            "url":"https://raw.githubusercontent.com/chea08/FileBall-icons/main/icons/BlackEmby.png"
+        },
         {
             "name":"CcEmby",
             "url":"https://raw.githubusercontent.com/chea08/FileBall-icons/main/icons/CcEmby.png"
@@ -35,12 +39,24 @@
             "url":"https://raw.githubusercontent.com/chea08/FileBall-icons/main/icons/Charon.png"
         },
         {
+            "name":"DolphinEmby",
+            "url":"https://raw.githubusercontent.com/chea08/FileBall-icons/main/icons/DolphinEmby.png"
+        },
+        {
+            "name":"EmbyHub",
+            "url":"https://raw.githubusercontent.com/chea08/FileBall-icons/main/icons/EmbyHub.png"
+        },
+        {
             "name":"放映厅",
             "url":"https://raw.githubusercontent.com/chea08/FileBall-icons/main/icons/Fangyt.png"
         },
         {
             "name":"Heishan",
             "url":"https://raw.githubusercontent.com/chea08/FileBall-icons/main/icons/Heishan.png"
+        },
+        {
+            "name":"HXDEmby",
+            "url":"https://raw.githubusercontent.com/chea08/FileBall-icons/main/icons/HXDEmby.png"
         },
         {
             "name":"Infinityfly",
@@ -117,6 +133,10 @@
         {
             "name":"Terminus",
             "url":"https://raw.githubusercontent.com/chea08/FileBall-icons/main/icons/Terminus.png"
+        },
+        {
+            "name":"TreeDiagram",
+            "url":"https://raw.githubusercontent.com/chea08/FileBall-icons/main/icons/TreeDiagram.png"
         },
         {
             "name":"不可描述",
